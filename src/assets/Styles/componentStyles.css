@@ -18,9 +18,9 @@
     background-size: cover;
 }
 
-.CarouselItem{
-    /* flex-grow: 1; */
-}
+/* .CarouselItem{
+    flex-grow: 1;
+} */
 
 .navIcon {
     margin-left: 1rem;
