@@ -4,25 +4,25 @@ export const categories = [
     {
         id: 1,
         name: 'Women Hoseiry',
-        image: './public/images/clayBirds.jpg',
+        image: './publicDeploy/images/clayBirds.jpg',
         component: CategoryCard,  
     },
     {
         id: 2,
         name: 'Women Hoseiry',
-        image: './public/images/clayBirds.jpg',
+        image: './publicDeploy/images/clayBirds.jpg',
         component: CategoryCard,  
     },
     {
         id: 3,
         name: 'Women Hoseiry',
-        image: './public/images/clayBirds.jpg',
+        image: './publicDeploy/images/clayBirds.jpg',
         component: CategoryCard,  
     },
     {
         id: 4,
         name: 'Women Hoseiry',
-        image: './public/images/clayBirds.jpg',
+        image: './publicDeploy/images/clayBirds.jpg',
         component: CategoryCard,  
     }
 ]
