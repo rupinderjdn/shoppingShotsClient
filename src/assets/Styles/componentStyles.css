@@ -13,7 +13,7 @@
 }
 
 #navbar-mainAdv{
-    background: url("/src/assets/images/CeramicBell.jpeg");
+    background: url("./images/CeramicBell.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
